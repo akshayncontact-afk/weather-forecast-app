@@ -1,7 +1,7 @@
 # Weather Forecast Application
 
 ## 🌐 Live Demo
-**[Click here to view the live site!](https://akshaycontact-afk.github.io/weather-forecast-app/)**
+**[Click here to view the live site!](https://akshayncontact-afk.github.io/weather-forecast-app/)**
 
 ---
 
